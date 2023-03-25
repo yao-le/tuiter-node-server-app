@@ -1,5 +1,6 @@
 import posts from "./tuits.js";
 
+
 let tuits = posts;
 
 const createTuit = (req, res) => {
